@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="brands">
+        <item>ВАЗ</item>
+        <item>ГАЗ</item>
+        <item>УАЗ</item>
+        <item>КамАЗ</item>
+        <item>УРАЛ</item>
+        <item>ПАЗ</item>
+    </string-array>
+
+    <integer-array name="car_photo_imgs">
+        <item>@drawable/vaz</item>
+        <item>@drawable/gaz</item>
+        <item>@drawable/uaz</item>
+        <item>@drawable/kamaz</item>
+        <item>@drawable/ural</item>
+        <item>@drawable/paz</item>
+    </integer-array>
+</resources>
